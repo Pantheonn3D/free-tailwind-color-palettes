@@ -62,3 +62,11 @@ module.exports = {
     }
   }
 }
+```
+
+## Generator
+Need a specific color combination?
+[Generate a random palette](https://ccolorpalette.com) (No login required).
+
+### License
+These palettes are public domain (CC0). You can use them in personal or commercial projects without attribution.
