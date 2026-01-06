@@ -70,3 +70,14 @@ Need a specific color combination?
 
 ### License
 These palettes are public domain (CC0). You can use them in personal or commercial projects without attribution.
+
+
+## Features & Capabilities
+
+This collection is designed for modern web development workflows.
+
+- **Instant Tailwind Export:** Generate `tailwind.config.js` or `theme.extend` objects instantly.
+- **Accessibility First:** All palettes are checked against **WCAG 2.1** contrast guidelines (AA/AAA).
+- **Format Support:** Export colors to **CSS Variables**, **SCSS**, **JSON**, **HEX**, **RGB**, and **HSL**.
+- **Color Blindness Safe:** Palettes are validated for Protanopia, Deuteranopia, and Tritanopia.
+- **No Login Required:** Save and share palettes via URL without creating an account.
